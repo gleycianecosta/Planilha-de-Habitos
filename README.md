@@ -1,6 +1,7 @@
 # NLW Setup - Trilha Explore
 
-![preview](./habits.png)
+  <img alt="" src="assets/habits.png">
+
 
 
 Projeto contruído no evento Next Level Week da Rocketseat. 
